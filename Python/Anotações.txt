@@ -1,0 +1,1 @@
+Esta pasta foi criada a fim de compartilhar os exercícios feitos na UFPE, de programas com objetivos didáticos em Python.
