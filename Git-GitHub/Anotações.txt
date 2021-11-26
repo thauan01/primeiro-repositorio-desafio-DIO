@@ -1,0 +1,17 @@
+Anotações Importantes sobre Comandos do GIT
+
+Dir - Pesquisa tudo que está naquela pasta
+
+Mkdir - Cria uma nova pasta
+
+cd - Navega para outro endereço
+
+cd .. - Navega para o nível de diretório imediatamente superior
+
+git init - Cria a Pasta ".git", e a operação GIT propriamente dita, naquela pasta
+
+git clone - Função que Clona o Repositório que tiver seu link mencionado
+
+git commit -m "Ação Realizada" - Sintaxe para transformar alterações que estão em staged para commit
+
+git push origin main - Envia os commit's realizados no 'main' para a Nuvem.
